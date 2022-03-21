@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @zandrastr
-- 🌱 I’m currently learning HTML, CSS & Javascript
+- 👋 Hi, I’m @zandrastr 👩‍🎓
+- Web dev student 2021-2022 🌱🌍
+
+- 🧡 HTML
+- 💛 CSS
+- 💚 Javascript
+- 💙 C#
 
 <!---
 zandrastr/zandrastr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
