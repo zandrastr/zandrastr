@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @zandrastr 👩‍🎓
-- Web dev student 2021-2022 🌱🌍
-
-- 🧡 HTML
-- 💛 CSS
-- 💚 Javascript
-- 💙 C#
+👋 Hi, I’m @zandrastr 👩‍🎓
+I'm a Front End Developer student @Medieinstitutet 💻🔮
 
 <!---
 zandrastr/zandrastr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
